@@ -1,0 +1,54 @@
+# Django و REST framework
+Django>=4.2.0
+djangorestframework>=3.14.0
+djangorestframework-simplejwt>=5.2.2
+
+# Rate Limiting
+django-ratelimit>=4.1.0
+
+# کپچا
+GuardPyCaptcha
+
+# متغیرهای محیطی
+python-dotenv>=1.0.0
+
+# User Agent Parser
+user-agents>=2.2.0
+
+# تاریخ و زمان
+pytz>=2023.3
+
+# درخواست‌های HTTP
+requests>=2.31.0
+
+# UUID
+uuid>=1.30
+
+# دیتابیس
+psycopg2-binary>=2.9.9  # برای PostgreSQL
+
+# CORS
+django-cors-headers>=4.3.1
+
+# فایل‌های استاتیک و مدیا
+Pillow>=10.1.0  # برای پردازش تصاویر
+
+# امنیت
+django-filter>=23.5
+django-guardian>=2.4.0
+
+# کش
+django-redis>=5.4.0
+
+# سریالایزر
+djangorestframework-camel-case>=1.4.2
+
+# بلک لیست توکن
+djangorestframework-simplejwt[crypto]>=5.3.1
+
+# دیباگ
+django-debug-toolbar>=4.2.0
+
+# تست
+pytest>=7.4.3
+pytest-django>=4.7.0
